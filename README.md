@@ -1,5 +1,7 @@
 # PricePerfect
 
+PricePerfect is an app that uses statistics & AI to appraise resale value
+
 https://devpost.com/software/no-name-w08btv
 
 ## Inspiration
